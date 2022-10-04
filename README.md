@@ -47,7 +47,7 @@ To add resources or to contribute read the [Contribution-guide](https://github.c
 ## Index
 
 - [Android Development](#android-development)
-- [Backend](#backend)  
+- [Backend](#backend)
   * [Python](#python)
   * [Django](#django)
   * [NodeJs](#nodejs)
@@ -55,6 +55,7 @@ To add resources or to contribute read the [Contribution-guide](https://github.c
   * [NextJs](nextjs)
   * [Java](#java)
   * [Spring Boot](#spring-boot)
+  * [Shell Commands](#shell-commands)
 - [Blog writing](#blog-writing)
 - [Core-CS](#core-cs)
 - [Design](#design)
@@ -66,6 +67,7 @@ To add resources or to contribute read the [Contribution-guide](https://github.c
   * [Practice](#practice)
 - [Git and GitHub](#git-and-github)
 - [Good first issue finder](#good-first-issue-finder)
+- [Linux](#linux)
 - [Machine Learning](#machine-learning)
 - [Web3](#web3)
 - [Linux](#linux)
@@ -109,6 +111,9 @@ To add resources or to contribute read the [Contribution-guide](https://github.c
 
 ## Backend
 - :hammer_and_wrench: [Roadmap](https://roadmap.sh/backend)
+
+### Shell Commands
+- :video_camera: [Shell Commands](https://www.youtube.com/watch?v=iwolPf6kN-k)
 
 ### Python 
 - :hammer_and_wrench: [Roadmap](https://roadmap.sh/python)
@@ -247,6 +252,11 @@ To add resources or to contribute read the [Contribution-guide](https://github.c
 - :hammer_and_wrench: [First contributions](https://firstcontributions.github.io/)
 - :hammer_and_wrench: [EddieHub Issue Finder](https://finder.eddiehub.io/)
 - :hammer_and_wrench: [Issue Finder](https://github.com/voscarmv/issue-finder)
+
+---
+
+## Linux
+- :video_camera: [Brief History Of Linux](https://www.youtube.com/watch?v=ShcR4Zfc6Dw)
 
 ---
 
